@@ -1,0 +1,6 @@
+requests == 2.23.0
+#py_expression_eval == 0.3.14
+vosk == 0.3.44
+numpy == 1.23.5
+pydub == 0.25.1
+web3 == 5.31.4
