@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/benoitrobaglia/Documents/eth_paris/rollups-examples/calculator/.env"
+VIRTUAL_ENV="/Users/benoitrobaglia/Documents/eth_paris/super-magic-ben/super-magic-ben-calculator/.env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

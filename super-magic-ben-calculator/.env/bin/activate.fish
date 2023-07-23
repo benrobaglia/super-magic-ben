@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/benoitrobaglia/Documents/eth_paris/rollups-examples/calculator/.env"
+set -gx VIRTUAL_ENV "/Users/benoitrobaglia/Documents/eth_paris/super-magic-ben/super-magic-ben-calculator/.env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
